@@ -1,0 +1,196 @@
+@import '../../utils/theme.css';
+
+.home-section {
+    background-color: var(--theme-shade);
+}
+
+.home-section a {
+    color: var(--theme-light);
+}
+
+.home-section a:hover {
+    text-decoration: none;
+}
+
+/* Introduction Section */
+.introduction-section {
+    background-color: var(--theme-dark);
+    padding-top: 2.5rem;
+    padding-bottom: 6rem;
+}
+
+.introduction-section h3 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.introduction-section p {
+    color: var(--theme-light);
+    font-size: 16px;
+}
+
+.introduction-section .alert {
+    font-size: 15px;
+}
+
+/* Token Profile */
+.token-profile {
+    color: var(--theme-light);
+}
+
+.token-profile .token-profile-content {
+    background-color: var(--theme-primary);
+    border-radius: 25px;
+    margin-top: -3rem;
+}
+
+.token-profile .caption img {
+    width: 35px;
+    height: 35px;
+}
+
+.token-profile h4 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.token-profile p {
+    word-wrap: break-word;
+}
+
+/* Tokenomic Section */
+
+.tokenomic-section {
+    padding: 3rem 0;
+    color: var(--theme-light);
+}
+
+.tokenomic-section h4 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.tokenomic-section h6 {
+    font-weight: 700;
+}
+
+.tokenomic-section .progress {
+    height: 10px;
+    background-color: var(--theme-dark);
+}
+
+.tokenomic-section .progress-bar {
+    background-color: var(--theme-secondary);
+}
+
+/* Info Section */
+
+.info-section {
+    padding: 3rem 0;
+    color: var(--theme-light);
+}
+
+.info-section h4 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.info-section .table {
+    color: var(--theme-light);
+}
+
+.info-section .table td {
+    padding: 0;
+}
+
+/* Road Map Section */
+
+.roadmap-section {
+    padding: 2rem 0;
+    color: var(--theme-light);
+}
+
+.roadmap-section h4,
+.roadmap-section h6 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.rm {
+    border: 3px solid var(--theme-secondary);
+    border-image: linear-gradient(to right, var(--theme-purple) 0%, var(--theme-secondary) 100%);
+    border-image-slice: 1;
+}
+
+.rm-1,
+.rm-3,
+.rm-5 {
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+}
+
+.rm-2,
+.rm-4 {
+    border-right: 0;
+}
+
+.rm-image-wrapper-1,
+.rm-image-wrapper-3,
+.rm-image-wrapper-5 {
+    width: 40px;
+    height: 40px;
+    background-color: var(--theme-dark);
+    border: 3px solid var(--theme-secondary);
+    border-radius: 100%;
+    padding: 3px;
+    position: absolute;
+    top: 2.3rem;
+    right: -1.3rem;
+}
+
+.rm-image-wrapper-2,
+.rm-image-wrapper-4 {
+    width: 40px;
+    height: 40px;
+    background-color: var(--theme-dark);
+    border: 3px solid var(--theme-purple);
+    border-radius: 100%;
+    padding: 3px;
+    position: absolute;
+    top: 2.3rem;
+    left: -1.3rem;
+}
+
+/* Listing Section */
+
+.listing-section {
+    padding: 2rem 0;
+}
+
+.listing-section h4 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
+
+.listing-wrapper {
+    background-color: var(--theme-dark);
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 25px;
+}
+
+.listing-wrapper img {
+    width: 75%;
+}
+
+/* Partner Section */
+
+.partner-section {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+.partner-section h4 {
+    color: var(--theme-white);
+    font-weight: 700;
+}
