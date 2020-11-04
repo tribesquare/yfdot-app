@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/yfdot-app/static/css/main.1b19be70.chunk.css",
-    "main.js": "/yfdot-app/static/js/main.5a896daa.chunk.js",
-    "main.js.map": "/yfdot-app/static/js/main.5a896daa.chunk.js.map",
+    "main.css": "/yfdot-app/static/css/main.d4b781c5.chunk.css",
+    "main.js": "/yfdot-app/static/js/main.9c0d132d.chunk.js",
+    "main.js.map": "/yfdot-app/static/js/main.9c0d132d.chunk.js.map",
     "runtime-main.js": "/yfdot-app/static/js/runtime-main.8008463a.js",
     "runtime-main.js.map": "/yfdot-app/static/js/runtime-main.8008463a.js.map",
     "static/css/2.25d2a862.chunk.css": "/yfdot-app/static/css/2.25d2a862.chunk.css",
-    "static/js/2.4cd73e74.chunk.js": "/yfdot-app/static/js/2.4cd73e74.chunk.js",
-    "static/js/2.4cd73e74.chunk.js.map": "/yfdot-app/static/js/2.4cd73e74.chunk.js.map",
+    "static/js/2.58bd11aa.chunk.js": "/yfdot-app/static/js/2.58bd11aa.chunk.js",
+    "static/js/2.58bd11aa.chunk.js.map": "/yfdot-app/static/js/2.58bd11aa.chunk.js.map",
     "index.html": "/yfdot-app/index.html",
-    "precache-manifest.551391dadedb81ae326f7f53b20c0c14.js": "/yfdot-app/precache-manifest.551391dadedb81ae326f7f53b20c0c14.js",
+    "precache-manifest.ca9ee46729ce8d7a25f1d2064576efca.js": "/yfdot-app/precache-manifest.ca9ee46729ce8d7a25f1d2064576efca.js",
     "service-worker.js": "/yfdot-app/service-worker.js",
     "static/css/2.25d2a862.chunk.css.map": "/yfdot-app/static/css/2.25d2a862.chunk.css.map",
-    "static/css/main.1b19be70.chunk.css.map": "/yfdot-app/static/css/main.1b19be70.chunk.css.map",
-    "static/js/2.4cd73e74.chunk.js.LICENSE.txt": "/yfdot-app/static/js/2.4cd73e74.chunk.js.LICENSE.txt",
+    "static/css/main.d4b781c5.chunk.css.map": "/yfdot-app/static/css/main.d4b781c5.chunk.css.map",
+    "static/js/2.58bd11aa.chunk.js.LICENSE.txt": "/yfdot-app/static/js/2.58bd11aa.chunk.js.LICENSE.txt",
     "static/media/cryptomaster.png": "/yfdot-app/static/media/cryptomaster.2602a4d6.png",
     "static/media/digifinex.png": "/yfdot-app/static/media/digifinex.f10c467f.png",
     "static/media/tokeninfo.webp": "/yfdot-app/static/media/tokeninfo.be5c07a5.webp",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.8008463a.js",
     "static/css/2.25d2a862.chunk.css",
-    "static/js/2.4cd73e74.chunk.js",
-    "static/css/main.1b19be70.chunk.css",
-    "static/js/main.5a896daa.chunk.js"
+    "static/js/2.58bd11aa.chunk.js",
+    "static/css/main.d4b781c5.chunk.css",
+    "static/js/main.9c0d132d.chunk.js"
   ]
 }

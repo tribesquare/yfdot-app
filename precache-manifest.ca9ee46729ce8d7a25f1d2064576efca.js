@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9aaa8916ae33d4f1f3c5919ca864bca",
+    "revision": "2862db78d144683718f735aaf87d0e0e",
     "url": "/yfdot-app/index.html"
   },
   {
-    "revision": "a987b4e01b783f0ed9e5",
+    "revision": "fc2b3f5f85bcb3edc52d",
     "url": "/yfdot-app/static/css/2.25d2a862.chunk.css"
   },
   {
-    "revision": "4a079b830c1ad24d9c22",
-    "url": "/yfdot-app/static/css/main.1b19be70.chunk.css"
+    "revision": "5442fc404e0e0511c084",
+    "url": "/yfdot-app/static/css/main.d4b781c5.chunk.css"
   },
   {
-    "revision": "a987b4e01b783f0ed9e5",
-    "url": "/yfdot-app/static/js/2.4cd73e74.chunk.js"
+    "revision": "fc2b3f5f85bcb3edc52d",
+    "url": "/yfdot-app/static/js/2.58bd11aa.chunk.js"
   },
   {
     "revision": "4df4c58fd3db8af31000da1d75d059ea",
-    "url": "/yfdot-app/static/js/2.4cd73e74.chunk.js.LICENSE.txt"
+    "url": "/yfdot-app/static/js/2.58bd11aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a079b830c1ad24d9c22",
-    "url": "/yfdot-app/static/js/main.5a896daa.chunk.js"
+    "revision": "5442fc404e0e0511c084",
+    "url": "/yfdot-app/static/js/main.9c0d132d.chunk.js"
   },
   {
     "revision": "75a3b020b488eeeca2d5",

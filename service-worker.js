@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yfdot-app/precache-manifest.551391dadedb81ae326f7f53b20c0c14.js"
+  "/yfdot-app/precache-manifest.ca9ee46729ce8d7a25f1d2064576efca.js"
 );
 
 self.addEventListener('message', (event) => {
