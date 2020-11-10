@@ -1,29 +1,29 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import AppLayout from '../../layout/AppLayout/AppLayout';
 
 import './HomeView.css';
 
-import { faExclamationTriangle, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faExclamationTriangle, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import logo from '../../utils/assets/logo.png';
-import bitkeep from '../../utils/assets/bitkeep.png';
-import catex from '../../utils/assets/catex.png';
+// import bitkeep from '../../utils/assets/bitkeep.png';
+// import catex from '../../utils/assets/catex.png';
 import cointiger from '../../utils/assets/cointiger.png';
-import cryptomaster from '../../utils/assets/cryptomaster.png';
+// import cryptomaster from '../../utils/assets/cryptomaster.png';
 import digifinex from '../../utils/assets/digifinex.png';
-import dpanquan from '../../utils/assets/dpanquan.png';
+// import dpanquan from '../../utils/assets/dpanquan.png';
 import hotbit from '../../utils/assets/hotbit.png';
-import huoxing from '../../utils/assets/huoxing.png';
+// import huoxing from '../../utils/assets/huoxing.png';
 import rm1 from '../../utils/assets/rm1.png';
 import rm2 from '../../utils/assets/rm2.png';
 import rm3 from '../../utils/assets/rm3.png';
-import rm4 from '../../utils/assets/rm4.png';
-import rm5 from '../../utils/assets/rm5.png';
+// import rm4 from '../../utils/assets/rm4.png';
+// import rm5 from '../../utils/assets/rm5.png';
 import tokeninfo from '../../utils/assets/tokeninfo.webp';
-import unibot from '../../utils/assets/unibot.png';
-import uniswap from '../../utils/assets/uniswap.png';
+// import unibot from '../../utils/assets/unibot.png';
+// import uniswap from '../../utils/assets/uniswap.png';
 
 function HomeView() {
 

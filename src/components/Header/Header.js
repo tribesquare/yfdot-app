@@ -5,8 +5,8 @@ import theme from '../../utils/theme';
 
 import './Header.css';
 
-import { faBars } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import { faBars } from '@fortawesome/free-solid-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import logo from '../../utils/assets/logo.png';
 
