@@ -311,7 +311,7 @@ function HomeView() {
                         </div> */}
                     </div>
                 </section>
-                <section className="partner-section">
+                {/* <section className="partner-section">
                     <div className="container">
                         <h4 className="text-center">Partners</h4>
                         <div className="row mt-4">
@@ -354,7 +354,7 @@ function HomeView() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
             </main>
         </AppLayout>
     )
