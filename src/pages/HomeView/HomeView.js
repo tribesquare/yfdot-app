@@ -36,12 +36,12 @@ function HomeView() {
                         <p className="text-center">
                         YFDIA's For Innovative Investment. YFDIA is a community-owned DeFi infrastructure where its users determine what products they want and enjoy the yields.
                         </p>
-                        <div class="alert alert-warning text-center" role="alert">
+                        {/* <div class="alert alert-warning text-center" role="alert">
                             <FontAwesomeIcon icon={faExclamationTriangle} /> <span className="font-weight-bold">Warning !!</span> Our Telegram official group is <Link to='/'>@YFDIA_Official</Link> and our Telegram official channel is <Link to='/'>@YFDIA_Finance</Link>. Apart from these, any other groups are scam.
                         </div>
                         <div class="alert alert-primary text-center" role="alert">
-                        <FontAwesomeIcon icon={faInfoCircle} /> <span className="font-weight-bold">Audit Reports</span> This is the result of our token audit report from DPANQUAN, you can see it here : <Link to='/'>Audit Result</Link> and <Link to='/'>Audit Certificate</Link>. You can check it directly on the <Link to='/'>DPANQUAN official site</Link>.
-                        </div>
+                            <FontAwesomeIcon icon={faInfoCircle} /> <span className="font-weight-bold">Audit Reports</span> This is the result of our token audit report from DPANQUAN, you can see it here : <Link to='/'>Audit Result</Link> and <Link to='/'>Audit Certificate</Link>. You can check it directly on the <Link to='/'>DPANQUAN official site</Link>.
+                        </div> */}
                     </div>
                 </section>
                 <section className="token-profile">
@@ -179,11 +179,11 @@ function HomeView() {
                                             </tr>
                                         </tbody>
                                     </table>
-                                    <p className="mb-0 mt-4">
+                                    {/* <p className="mb-0 mt-4">
                                         - Will burn 3 times, Total Burn 15% of the Total Supply. <br />
                                         - Team tokens amount will be locked for 18 months. <br />
                                         - Stake Pool Allocation will be unlocked when the Staking platform is live.
-                                    </p>
+                                    </p> */}
                                 </div>
                             </div>
                         </div>
@@ -273,23 +273,23 @@ function HomeView() {
                         <div className="row mt-4">
                             <div className="col-md-4 mt-3">
                                 <div className="d-flex justify-content-center align-items-center listing-wrapper py-3 px-2">
-                                    <Link to='/' className="d-flex justify-content-center align-items-center">
+                                    <span className="d-flex justify-content-center align-items-center">
                                         <img src={hotbit} alt="hotbit" className="d-block" />
-                                    </Link>
+                                    </span>
                                 </div>
                             </div>
                             <div className="col-md-4 mt-3">
                                 <div className="d-flex justify-content-center align-items-center listing-wrapper py-3 px-2">
-                                    <Link to='/' className="d-flex justify-content-center align-items-center">
+                                    <span className="d-flex justify-content-center align-items-center">
                                         <img src={cointiger} alt="cointiger" className="d-block" />
-                                    </Link>
+                                    </span>
                                 </div>
                             </div>
                             <div className="col-md-4 mt-3">
                                 <div className="d-flex justify-content-center align-items-center listing-wrapper py-3 px-2">
-                                    <Link to='/' className="d-flex justify-content-center align-items-center">
+                                    <span className="d-flex justify-content-center align-items-center">
                                         <img src={digifinex} alt="digifinex" className="d-block" />
-                                    </Link>
+                                    </span>
                                 </div>
                             </div>
                         </div>

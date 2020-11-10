@@ -21,7 +21,7 @@ const Header = () => {
                             <img src={logo} alt="logo" />&nbsp; <span style={{color: `${theme.colors.white}`}}>YFDIA</span>
                         </Link>
                     </div>
-                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    {/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <FontAwesomeIcon icon={faBars} color={theme.colors.white} />
                     </button>
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -86,7 +86,7 @@ const Header = () => {
                         <div className="ml-auto">
                             <button className="btn btn-outline-secondary" >Stake Now</button>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </nav>
         </header>
