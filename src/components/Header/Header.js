@@ -18,7 +18,7 @@ const Header = () => {
                 <div className="container">
                     <div className="navbar-brand d-flex align-items-center">
                         <Link to='/'>
-                            <img src={logo} alt="logo" />&nbsp; <span style={{color: `${theme.colors.white}`}}>YFDOT</span>
+                            <img src={logo} alt="logo" />&nbsp; <span style={{color: `${theme.colors.white}`}}>YFDIA</span>
                         </Link>
                     </div>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

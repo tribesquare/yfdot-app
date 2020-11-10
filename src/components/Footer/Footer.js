@@ -49,7 +49,7 @@ function Footer() {
                             </Link>
                         </div>
                     </div>
-                    <p className="text-center mt-4 mb-0">Copyright &copy; 2020 YFDOT. All Right Reserved.</p>
+                    <p className="text-center mt-4 mb-0">Copyright &copy; 2020 YFDIA. All Right Reserved.</p>
                 </div>
             </div>
         </footer>
