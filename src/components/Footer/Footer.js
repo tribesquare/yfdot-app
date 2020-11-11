@@ -6,7 +6,7 @@ import './Footer.css';
 
 import {  } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faTelegramPlane } from '@fortawesome/free-brands-svg-icons';
+import { faTelegramPlane, faTwitter } from '@fortawesome/free-brands-svg-icons';
 
 // import twitter from '../../utils/assets/twitter.png';
 // import medium from '../../utils/assets/medium.png';
@@ -22,12 +22,13 @@ function Footer() {
             <div className="container">
                 <div className="">
                     <div className="d-flex align-items-center justify-content-center">
-                        {/* <div className="d-flex align-items-center justify-content-center mx-2 p-1 social-media-wrapper">
-                            <Link to='/'>
-                                <img src={twitter} alt="twitter" className="" />
-                            </Link>
-                        </div>
                         <div className="d-flex align-items-center justify-content-center mx-2 p-1 social-media-wrapper">
+                            <a href="https://twitter.com/YfdiaF">
+                                <FontAwesomeIcon icon={faTwitter} color={theme.colors.white} style={{fontSize: "22px"}} />
+                                {/* <img src={twitter} alt="twitter" className="" /> */}
+                            </a>
+                        </div>
+                        {/* <div className="d-flex align-items-center justify-content-center mx-2 p-1 social-media-wrapper">
                             <Link to='/'>
                                 <img src={discord} alt="discord" className="" />
                             </Link>

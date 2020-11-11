@@ -49,7 +49,7 @@ function HomeView() {
                         <div className="row token-profile-content">
                             <div className="col-md-6 mt-3">
                                 <div className="h-100">
-                                    <img src={tokeninfo} alt="token info" className="d-block w-100" />
+                                    {/* <img src={tokeninfo} alt="token info" className="d-block w-100" /> */}
                                 </div>
                             </div>
                             <div className="col-md-4 mt-3">
